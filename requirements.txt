@@ -1,0 +1,8 @@
+# Use opencv-python for local runs with a live preview window (cv2.imshow).
+# If you are running on a headless server / CI with no display, replace this
+# line with opencv-python-headless==4.13.0.92 and always pass --no-display.
+opencv-python==4.13.0.92
+numpy==2.4.4
+scipy==1.17.1
+matplotlib==3.10.8
+

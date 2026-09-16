@@ -1,0 +1,10 @@
+{
+  "total_unique_vehicles": 5,
+  "counts_by_type": {
+    "bike": 4,
+    "car": 1
+  },
+  "frames_processed": 150,
+  "annotated_video": "output/result.mp4",
+  "count_over_time_graph": "output/vehicle_count_over_time.png"
+}
